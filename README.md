@@ -68,7 +68,7 @@ Greetings from Cupertino, California!
 $ head -n 1 think_different.txt
 Here's to the crazy ones. The misfits. The rebels. The troublemakers.
 
-$ sentences propositions.txt
+$ sentences think_different.txt
 Here's to the crazy ones.
 The misfits.
 The rebels.
